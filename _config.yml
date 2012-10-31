@@ -10,6 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
+baseurl: /gxw
 tagline: Site Tagline
 author :
   name : gxw
