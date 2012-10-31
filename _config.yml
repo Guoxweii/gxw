@@ -9,9 +9,9 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 一路无惊慌
 # baseurl: /gxw
-tagline: Site Tagline
+tagline: lines
 author :
   name : gxw
   email : alphaguoxiongwei@gmail.com
