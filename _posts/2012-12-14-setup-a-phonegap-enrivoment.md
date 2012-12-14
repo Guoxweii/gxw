@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 构建基于html5的app程序 
+categories: js html5
 tags: ios html5 js css phonegap
 ---
 
