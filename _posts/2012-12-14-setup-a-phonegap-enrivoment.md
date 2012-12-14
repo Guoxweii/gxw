@@ -21,11 +21,11 @@ PhoneGap是一个开源的开发框架，使用HTML，CSS和JavaScript来构建�
 3. 下载最新版的Apache Cordova，下载地址：http://phonegap.com/download
 4. 下载完毕，解压文件如下图（当前最新为2.0.0）
 
-![](/images/unpack.png)
+![](/gxw/images/unpack.png)
 
 双击路径为lib/ios的Cordova-2.0.0.dmg文件进行安装
 
-![](/images/install.png)
+![](/gxw/images/install.png)
 
 （1）双击上图中的Cordova-2.0.0.pkg文件进行安装
 
@@ -45,7 +45,7 @@ PhoneGap是一个开源的开发框架，使用HTML，CSS和JavaScript来构建�
 	
 CordovaProjectName为项目名称，项目目录如下
 
-![](/images/items.png)
+![](/gxw/images/items.png)
 
 其中www文件夹为我们html页面的根目录，构建程序已经为我们构建了一个简单的静态html项目在里面，所以暂且用这个进行调试
 
