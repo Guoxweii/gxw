@@ -83,7 +83,7 @@ ps：我的brew配置的有问题，第一种方法报错，通过第三种办�
 	
 效果图如下：
 
-![](/images/iphone.png)
+![](/gxw/images/iphone.png)
 
 6: 现在开发环境已经搭好了，将开发好的html程序放在www目录下面，设置首页为index.html(当然也可以修改phonegap的配置文件来修改首页路径)，然后重新编译下就能正式发布了
 
