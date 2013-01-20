@@ -2,7 +2,7 @@
 layout: post
 title: 在 Ubuntu rails服务器上实现抓包流量统计功能
 date: 2013-01-15
-categories: ruby
+categories: ruby packetfu
 tags: tcpdump packetfu rails ubuntu
 ---
 
